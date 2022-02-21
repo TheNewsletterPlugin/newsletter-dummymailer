@@ -1,6 +1,6 @@
 <?php
 /**
- * The settings page for this addon. It is loaded by the main class, so you can referenct it
+ * The settings page for this addon. It is loaded by the main class, so you can reference it
  * as $this. Below the declaration so you can use the code completion from your IDE - do you 
  * use an IDE, uh?
  */
